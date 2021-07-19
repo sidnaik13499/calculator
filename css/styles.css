@@ -1,0 +1,31 @@
+.container{
+    background-color:darkcyan;
+    width: 26rem;
+    height: 34.5rem;
+    text-align: center;
+    margin: 10rem auto;
+}
+
+.container .button{
+    width: 5rem;
+    height: 5rem;
+    font-size: 1.5rem;
+    margin:5px 10px;
+}
+
+.container .button:hover{
+    background-color: rgba(0, 0, 0, 0.349);
+}
+
+
+.container input{
+    width: 25.6rem;
+    height: 3rem;
+    box-shadow: none;
+    border:none;
+    text-align: right;
+    color: white;
+    background-color:rgb(4, 87, 87);
+    font-size: 2.5rem;
+
+}
